@@ -297,15 +297,7 @@ body.overlay{
   justify-content:flex-start;
   align-items:center
   }
-@media only screen and (min-width: 480px) and (max-width: 767px) {
 
- { min-width:480px; }
-
-#icons {
-          background-position:-50px 0px;
-          height:74px;
-          
-  }
 @media (max-width:450px){
 #software .icons{
   margin-left:0;
